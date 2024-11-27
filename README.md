@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-[![](https://raw.githubusercontent.com/xiaozhou26/xiaozhou26/main/out/ocean.gif)](https://github.com/xiaozhou26)
+[![](https://raw.githubusercontent.com/JIU-W/JIU-W/main/out/github-snake.svg)](https://github.com/JIU-W)

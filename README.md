@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 [![](https://raw.githubusercontent.com/JIU-W/JIU-W/main/out/github-snake.svg)](https://github.com/JIU-W)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sun0225SUN)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sun0225SUN)](https://github.com/JIU-W)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
@@ -30,7 +31,24 @@ Here are some ideas to get you started:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=JIU-W&show_icons=true&theme=transparent)     
 -->
-
+<p align="center">
+<br><br>
+  <a href="https://github.com/JIU-W">
+    <img src="https://badges.strrl.dev/visits/HIM198/HIM198?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/JIU-W">
+    <img src="https://badges.strrl.dev/years/HIM198?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/HIM198?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/HIM198?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://gist.github.com/JIU-W">
+    <img src="https://badges.strrl.dev/gists/HIM198?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/JIU-W">
+    <img src="https://badges.strrl.dev/commits/monthly/HIM198?style=flat-square&color=black&logo=github">
+  </a>
+</p>
 
 ### My Skill Set
 

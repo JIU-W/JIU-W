@@ -15,46 +15,51 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![](https://raw.githubusercontent.com/JIU-W/JIU-W/main/out/github-snake.svg)](https://github.com/JIU-W)
+-->
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sun0225SUN)](https://github.com/JIU-W)
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIU-W&layout=compact&theme=tokyonight)
-
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/m0_73753865?spm=1000.2115.3001.5343)
+<p align="center">
+  <a href="https://github.com/JIU-W">
+    <img src="https://raw.githubusercontent.com/JIU-W/JIU-W/main/out/github-snake.svg" alt="GitHub Snake">
+  </a>
+</p>
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=JIU-W&show_icons=true&theme=transparent)     
 -->
+
+
 <p align="center">
-<br><br>
-  <a href="https://github.com/JIU-W">
-    <img src="https://badges.strrl.dev/visits/HIM198/HIM198?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/JIU-W">
-    <img src="https://badges.strrl.dev/years/HIM198?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/HIM198?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/HIM198?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/JIU-W">
-    <img src="https://badges.strrl.dev/gists/HIM198?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/JIU-W">
-    <img src="https://badges.strrl.dev/commits/monthly/HIM198?style=flat-square&color=black&logo=github">
-  </a>
+    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" />
+</p>
+<p align="center">
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <img width="400" src="https://streak-stats.demolab.com?user=JIU-W&theme=transparent&hide_border=true" />
+</p>
+<p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JIU-W&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+</p>
+<p align="center">
+    <!-- https://github.com/ryo-ma/github-profile-trophy -->
+    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=JIU-W&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
+</p>
+<p align="center">
+    <!-- https://github.com/LelouchFR/skill-icons -->
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab&titles=true">
 </p>
 
-### My Skill Set
-
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
 
 
